@@ -85,3 +85,8 @@
 ## [2026-04-06] chore | 行业研究目录重命名
 - 将 `wiki/investment/sectors/` 重命名为 `wiki/investment/industry-research/`
 - 同步修正了 `AGENTS.md` 和 Obsidian 工作区中的显式路径引用
+
+## [2026-04-06] ingest | 畅行智驾与中科创星业绩补充
+- 处理了 `raw/畅行智驾访谈.md.txt`，新建 `畅行智驾` 公司页
+- 处理了 `raw/（中科创星）盲池基金业绩表1231.xlsx`，回填了 `中科创星` 的分期基金业绩、DPI、TVPI 和 MOC 信息
+- 同步刷新了 `wiki/index.md`
