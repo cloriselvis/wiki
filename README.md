@@ -2,6 +2,12 @@
 
 这个仓库现在已经接好了 Quartz，可以把 [`wiki/`](C:\Users\zsc\my-wiki\wiki) 里的 Markdown 直接发布成一个可点击、可搜索的网站。
 
+## 文件分工
+
+- [`AGENTS.md`](C:\Users\zsc\my-wiki\AGENTS.md)：知识库唯一工作规范，定义 `raw -> wiki` 的整理流程
+- [`README.md`](C:\Users\zsc\my-wiki\README.md)：给人看的仓库使用说明
+- [`scripts/README.md`](C:\Users\zsc\my-wiki\scripts\README.md)：辅助脚本说明，只负责原始材料层，不定义知识库规则
+
 ## 本地预览
 
 1. 安装依赖：`npm ci`

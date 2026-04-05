@@ -65,3 +65,8 @@
 - 取消了从 `raw/imports/obsidian-books/` 直接生成 `wiki/books/` 的旁路，导入书籍仅会先筛到 `raw/imports/obsidian-books-ready/`
 - `wiki/` 只保留已手工整理的书页；后续书籍与其他材料一样，统一按 `CLAUDE.md` 从 `raw/` 进入 `wiki/`
 - 清理并更新了 `wiki/index.md`、书籍目录和脚本说明
+
+## [2026-04-05] ingest | 规范迁移到 AGENTS.md
+- 将仓库的唯一 agent 规范从 `CLAUDE.md` 迁移到 `AGENTS.md`
+- `README.md` 仅保留人类使用与发布说明，`scripts/README.md` 仅说明辅助脚本
+- `CLAUDE.md` 改为兼容入口，不再单独维护
