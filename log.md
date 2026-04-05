@@ -70,3 +70,8 @@
 - 将仓库的唯一 agent 规范从 `CLAUDE.md` 迁移到 `AGENTS.md`
 - `README.md` 仅保留人类使用与发布说明，`scripts/README.md` 仅说明辅助脚本
 - `CLAUDE.md` 改为兼容入口，不再单独维护
+
+## [2026-04-06] ingest | 书籍页批量整理
+- 将 `raw/imports/obsidian-books-ready/` 中 70 本完读书籍整理进 `wiki/books/`
+- 书籍页统一补充了书名、封面、基本信息、目录、轮廓和空白“我的观点”板块
+- 同步修正了两本旧书页的结构，并刷新 `wiki/index.md`
