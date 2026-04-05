@@ -22,7 +22,7 @@ log.md     操作日志，只追加
 
 - `wiki/investment/funds/`：基金类项目 / 基金管理人
 - `wiki/investment/companies/`：公司类项目
-- `wiki/investment/sectors/`：行业研究
+- `wiki/investment/industry-research/`：行业研究
 - `wiki/books/`：已手工整理完成的书籍页面
 
 `raw/imports/obsidian-books/` 和 `raw/imports/obsidian-books-ready/` 仍然属于原始材料层，不是知识库页面。

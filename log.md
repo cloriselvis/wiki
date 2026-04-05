@@ -81,3 +81,7 @@
 - 将现有基金页统一补齐为更稳定的结构：`主要合伙人及履历`、`历史基金业绩`、`明星项目`
 - 对未披露的合伙人履历或基金 DPI/MOIC 明确标注为“当前材料未披露”，避免把项目口径误写成基金口径
 - 同步刷新了 `wiki/index.md`
+
+## [2026-04-06] chore | 行业研究目录重命名
+- 将 `wiki/investment/sectors/` 重命名为 `wiki/investment/industry-research/`
+- 同步修正了 `AGENTS.md` 和 Obsidian 工作区中的显式路径引用
