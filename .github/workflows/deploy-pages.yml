@@ -34,7 +34,7 @@ jobs:
         run: npm ci
 
       - name: Build Quartz
-        run: npm run build
+        run: node ./quartz/bootstrap-cli.mjs build -d wiki
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
