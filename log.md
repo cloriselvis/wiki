@@ -52,3 +52,16 @@
 ## [2026-04-05] ingest | 微信读书书籍批量导入
 - 将 `raw/imports/obsidian-books/` 中导入的 201 个 Markdown 批量生成到 `wiki/books/`
 - 保留原有 2 本书页，当前 `wiki/books/` 共 203 个页面，并已刷新 `wiki/index.md`
+
+## [2026-04-05] ingest | 书籍按完读状态清洗
+- 将导入规则收紧为仅保留微信读书 `progress: 100%` 的书籍页面
+- 清洗后保留 48 本已读完导入书，加上原有 2 本手工书页，当前 `wiki/books/` 共 50 个页面
+
+## [2026-04-05] ingest | 书籍完读口径调整
+- 将导入规则从仅保留 `progress: 100%` 调整为保留 `progress >= 95%` 的书籍页面
+- 书籍页面补充微信读书封面图；封面来自源 Markdown 中的远程图片链接，而非本地附件
+
+## [2026-04-05] ingest | 书籍导入流程归位
+- 取消了从 `raw/imports/obsidian-books/` 直接生成 `wiki/books/` 的旁路，导入书籍仅会先筛到 `raw/imports/obsidian-books-ready/`
+- `wiki/` 只保留已手工整理的书页；后续书籍与其他材料一样，统一按 `CLAUDE.md` 从 `raw/` 进入 `wiki/`
+- 清理并更新了 `wiki/index.md`、书籍目录和脚本说明
