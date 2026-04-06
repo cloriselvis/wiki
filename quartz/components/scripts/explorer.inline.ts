@@ -95,6 +95,16 @@ function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElemen
   return li
 }
 
+function createHomeNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElement {
+  const li = createFileNode(currentSlug, node)
+  const a = li.querySelector("a")
+  if (a) {
+    a.textContent = "首页"
+  }
+
+  return li
+}
+
 function createFolderNode(
   currentSlug: FullSlug,
   node: FileTrieNode,
@@ -211,6 +221,10 @@ async function setupExplorer(currentSlug: FullSlug) {
 
     // Create and insert new content
     const fragment = document.createDocumentFragment()
+    if (trie.data) {
+      fragment.appendChild(createHomeNode(currentSlug, trie))
+    }
+
     for (const child of trie.children) {
       const node = child.isFolder
         ? createFolderNode(currentSlug, child, opts)
