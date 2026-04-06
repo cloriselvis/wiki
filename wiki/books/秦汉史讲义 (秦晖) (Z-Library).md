@@ -1,6 +1,6 @@
-﻿# 秦汉史讲义 (秦晖) (Z-Library)
+# 秦汉史讲义 (秦晖) (Z-Library)
 
-**来源**：微信读书导入笔记（bookId: CB_BZc6iC6isG766vI6sxCDx5KB）  **最后更新**：2026-04-06
+**来源**：微信读书导入笔记（bookId: CB_BZc6iC6isG766vI6sxCDx5KB）  **最后阅读**：2025-07-04
 
 ![封面](https://res.weread.qq.com/wrepub/CB_5108oM8oR7Ci6s46t92ES5QT_parsecover)
 

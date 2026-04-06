@@ -1,6 +1,6 @@
-﻿# 走出帝制  从晚清到民国的历史回望 (秦晖) (Z-Library)
+# 走出帝制  从晚清到民国的历史回望 (秦晖) (Z-Library)
 
-**来源**：微信读书导入笔记（bookId: CB_GHtFULFTu2wH6nl6oo92CFQ4）  **最后更新**：2026-04-06
+**来源**：微信读书导入笔记（bookId: CB_GHtFULFTu2wH6nl6oo92CFQ4）  **最后阅读**：2025-04-14
 
 ![封面](https://weread-1258476243.file.myqcloud.com/app/assets/bookcover/book_cover_default_imported_01.png)
 

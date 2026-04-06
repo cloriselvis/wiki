@@ -1,6 +1,6 @@
-﻿# 南非的启示曼德拉传·从南非看中国·新南非19年 (秦晖) (Z-Library)
+# 南非的启示曼德拉传·从南非看中国·新南非19年 (秦晖) (Z-Library)
 
-**来源**：微信读书导入笔记（bookId: CB_Bdn6iF6isG766vI6sx5jaFnx）  **最后更新**：2026-04-06
+**来源**：微信读书导入笔记（bookId: CB_Bdn6iF6isG766vI6sx5jaFnx）  **最后阅读**：2025-07-24
 
 ![封面](https://res.weread.qq.com/wrepub/CB_AceDUCDV64Ro6iC6gWBmm7FY_parsecover)
 

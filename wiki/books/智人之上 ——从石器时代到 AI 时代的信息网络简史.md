@@ -1,6 +1,6 @@
-﻿# 智人之上 ——从石器时代到 AI 时代的信息网络简史
+# 智人之上 ——从石器时代到 AI 时代的信息网络简史
 
-**来源**：微信读书导入笔记（bookId: 3300119145）  **最后更新**：2026-04-06
+**来源**：微信读书导入笔记（bookId: 3300119145）  **最后阅读**：2025-05-21
 
 ![封面](https://cdn.weread.qq.com/weread/cover/79/cpplatform_nnjdppmxmsy3wfh16rjq2j/t6_cpplatform_nnjdppmxmsy3wfh16rjq2j1730345368.jpg)
 
